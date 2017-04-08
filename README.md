@@ -1,2 +1,2 @@
-# -YYWeather
-YY天气预报
+# YYWeather
+This is my first project in github.
